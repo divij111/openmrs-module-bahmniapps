@@ -36,4 +36,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           file: package/docker/Dockerfile
           push: true
-          tags: divij/sample-docker-test:latest
+          tags: divij111/sample-docker-test:latest
